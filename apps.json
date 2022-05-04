@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Volume Panel",
+      "imageUrl": "https://github.com/EmmanuelGuther/test/raw/main/volumepanel.png",
+      "apkUrl": "https://github.com/EmmanuelGuther/test/raw/main/volumepanelads_21.14-21014.apk"
+    },
+    {
+      "name": "Github",
+      "imageUrl": "https://github.com/EmmanuelGuther/test/raw/main/github.png",
+      "apkUrl": "https://github.com/EmmanuelGuther/test/raw/main/com.github.android_1.63.0.apk"
+    },
+    {
+      "name": "value1",
+      "imageUrl": "value2",
+      "apkUrl": "valu3"
+    }
+  ]
