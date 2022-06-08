@@ -4,94 +4,12 @@
       "imageUrl": "https://github.com/EmmanuelGuther/test/raw/main/volumepanel.png",
       "headerImageUrl": "https://github.com/EmmanuelGuther/test/raw/main/h_volumepanel.png",
       "apkUrl": "https://github.com/EmmanuelGuther/test/raw/main/volumepanel.apk",
-        "description":"Volume Panel is an enhanced replacement for your system volume control panel with an array of customisation options, all system volume controls available in one place plus screen brightness, media playback controls and a selection of additional shortcuts!
-
-Check out our design pre-sets channel on Telegram and see what's possible at: t.me/VPPresets
-
-Join in the conversation & keep up with the latest developments and ideas at: t.me/volumepanel
-
-Go PRO for less than the price of a cup of coffee: https://play.google.com/store/apps/details?id=leedroiddevelopments.volumepanel
-
-Replace your system volume panel with the Volume Button Override service, launch the panel from the non obtrusive floating trigger or map the handy shortcuts to other applications, it's also extra useful if your volume keys are worn or damaged.
-
-**Features:**
-
-- Horizontal or Vertical Sliders
-- Volume button override
-- Swipe Up/Down floating trigger
-- Long press & slide over the trigger to directly change the volume
-- Launcher shortcuts
-- Multiple design template options
-- Choose Media or Ring as the default button response
-- Configurable Dark/Light Modes
-- Gradient colour options.
-- Animated gradients colours - RGB IT UP!!
-- Auto Dark/Light Modes (Android 9+)
-- Custom vibration intensity
-- Custom animation duration
-- Start collapsed or expanded
-- Left or Right handed mode
-- Left or Right handed in landscape
-- Left or right trigger
-- - The panel will open on the same side as the trigger when launched from the trigger
-- Custom vertical position
-- Custom panel timeout
-- Media control from your volume panel!
-- Screen brightness control
-- Swap/Invert Buttons
-- Force close system dialog
-- Optional Audio Feedback
-- Custom background, slider & icon colours
-- Adjustable panel height & width
-- Adjustable panel margin
-- Option to exclude from certain applications
-- Volume streams: Cast, Media, Ring, Notification (If Supported), Call & Alarm
-- Bluetooth volume control
-- Quick Settings Pull-down Tiles
-- Pinned Launcher Shortcuts (Oreo+)
-- Screen Shot shortcut(Android 9+)
-- Split Screen shortcut(Android 9+)
-- Lock Rotation shortcut
-- Power Menu Shortcut.
-- Google Assistant shortcut
-- Bluetooth shortcut
-- Flashlight shortcut
-
-And more!
-
-**Quick Access Icons (in the panel):**
-
-- Instant access to alarm clock & alarm status.
-- Mute microphone in call.
-- Mute media or casting streams.
-- Switch between speaker/earpiece when in call.
-- Toggle between Ring, Vibrate or do Not Disturb (Silent).
-- Screen Shot (Android 9+).
-
-**Quick Settings Pull Down Tiles:**
-
-- Mute Media.
-- Toggle Ring Mode.
-- Launch Volume Panel.
-
-**Launcher Shortcuts:**
-
-- Mute Media.
-- Toggle Ring Mode.
-- Launch Volume Panel.
-- Volume + / Volume-
-
-**Notification Volume**
-
-- If the Notification Panel is enabled and splitting ring & notification is supported by the system, ring & notification are independent, if the notification panel is hidden, both stream's are tied together and follow ring volume.
-
-**PLEASE NOTE: Button Mapping apps such as Button Mapper or Bixby Button Re-mapper may interfere if volume button customisation is enabled, you can negate this by launching volume panel from your button mapper and assigning the Vol+/- shortcuts.**"
-    },
+        "description":"Volume Panel is an enhanced replacement for your system volume control panel with an array of customisation options, all system volume controls available in one place plus screen brightness, media playback controls and a selection of additional shortcuts!\r\n\r\nCheck out our design pre-sets channel on Telegram and see what's possible at: [t.me\/VPPresets](http:\/\/t.me\/VPPresets)\r\n\r\nJoin in the conversation & keep up with the latest developments and ideas at: [t.me\/volumepanel](http:\/\/t.me\/volumepanel)\r\n\r\nGo PRO for less than the price of a cup of coffee: [https:\/\/play.google.com\/store\/apps\/details?id=leedroiddevelopments.volumepanel](https:\/\/play.google.com\/store\/apps\/details?id=leedroiddevelopments.volumepanel)\r\n\r\nReplace your system volume panel with the Volume Button Override service, launch the panel from the non obtrusive floating trigger or map the handy shortcuts to other applications, it's also extra useful if your volume keys are worn or damaged.\r\n\r\nFeatures:\r\n\r\n- Horizontal or Vertical Sliders\r\n- Volume button override\r\n- Swipe Up\/Down floating trigger\r\n- Long press & slide over the trigger to directly change the volume\r\n- Launcher shortcuts\r\n- Multiple design template options\r\n- Choose Media or Ring as the default button response\r\n- Configurable Dark\/Light Modes\r\n- Gradient colour options.\r\n- Animated gradients colours - RGB IT UP!!\r\n- Auto Dark\/Light Modes (Android 9+)\r\n- Custom vibration intensity\r\n- Custom animation duration\r\n- Start collapsed or expanded\r\n- Left or Right handed mode\r\n- Left or Right handed in landscape\r\n- Left or right trigger\r\n- The panel will open on the same side as the trigger when launched from the trigger\r\n- Custom vertical position\r\n- Custom panel timeout\r\n- Media control from your volume panel!\r\n- Screen brightness control\r\n- Swap\/Invert Buttons\r\n- Force close system dialog\r\n- Optional Audio Feedback\r\n- Custom background, slider & icon colours\r\n- Adjustable panel height & width\r\n- Adjustable panel margin\r\n- Option to exclude from certain applications\r\n- Volume streams: Cast, Media, Ring, Notification (If Supported), Call & Alarm\r\n- Bluetooth volume control\r\n- Quick Settings Pull-down Tiles\r\n- Pinned Launcher Shortcuts (Oreo+)\r\n- Screen Shot shortcut(Android 9+)\r\n- Split Screen shortcut(Android 9+)\r\n- Lock Rotation shortcut\r\n- Power Menu Shortcut.\r\n- Google Assistant shortcut\r\n- Bluetooth shortcut\r\n- Flashlight shortcut\r\n\r\nAnd more!\r\n\r\nQuick Access Icons (in the panel):\r\n\r\n- Instant access to alarm clock & alarm status.\r\n- Mute microphone in call.\r\n- Mute media or casting streams.\r\n- Switch between speaker\/earpiece when in call.\r\n- Toggle between Ring, Vibrate or do Not Disturb (Silent).\r\n- Screen Shot (Android 9+).\r\n\r\nQuick Settings Pull Down Tiles:\r\n\r\n- Mute Media.\r\n- Toggle Ring Mode.\r\n- Launch Volume Panel.\r\n\r\nLauncher Shortcuts:\r\n\r\n- Mute Media.\r\n- Toggle Ring Mode.\r\n- Launch Volume Panel.\r\n- Volume + \/ Volume-\r\n\r\nNotification Volume\r\n\r\n- If the Notification Panel is enabled and splitting ring & notification is supported by the system, ring & notification are independent, if the notification panel is hidden, both stream's are tied together and follow ring volume.\r\n\r\nPLEASE NOTE: Button Mapping apps such as Button Mapper or Bixby Button Re-mapper may interfere if volume button customisation is enabled, you can negate this by launching volume panel from your button mapper and assigning the Vol+\/- shortcuts."},
     {
       "name": "Github",
       "imageUrl": "https://github.com/EmmanuelGuther/test/raw/main/github.png",
       "headerImageUrl": "https://github.com/EmmanuelGuther/test/raw/main/h_github.png",
       "apkUrl": "https://github.com/EmmanuelGuther/test/raw/main/github.apk",
-        "description": "x"
+        "description": "There's a lot you can do on GitHub that doesn't require a complex development environment \u2013 like making suggestions in a design discussion, or reviewing a few lines of code. GitHub for Android lets you move work forward wherever you are. Stay in touch with your team, assign proposals and even merge, right from the app. We're making these tasks easy to do, no matter where you work, with a great Android experience.\r\n\r\nYou can use GitHub for Android to:\r\n\r\n- Browse your recent notifications\r\n\u2022 Read, react and respond to issues and change requests\r\n\u2022 Review and merge change requests\r\n\u2022 Organize proposals using tags, assigning to people, projects and more\r\n\u2022 Browse your files and code\r\n\u2022 Discover new and trending repositories"
     }
   ]
