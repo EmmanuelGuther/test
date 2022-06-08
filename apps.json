@@ -3,7 +3,7 @@
       "name": "Volume Panel",
       "imageUrl": "https://github.com/EmmanuelGuther/test/raw/main/volumepanel.png",
       "headerImageUrl": "https://github.com/EmmanuelGuther/test/raw/main/h_volumepanel.png",
-      "apkUrl": "https://github.com/EmmanuelGuther/test/raw/main/volumepanelads_21.14-21014.apk",
+      "apkUrl": "https://github.com/EmmanuelGuther/test/raw/main/volumepanel.apk",
         "description":"Volume Panel is an enhanced replacement for your system volume control panel with an array of customisation options, all system volume controls available in one place plus screen brightness, media playback controls and a selection of additional shortcuts!
 
 Check out our design pre-sets channel on Telegram and see what's possible at: t.me/VPPresets
@@ -91,7 +91,7 @@ And more!
       "name": "Github",
       "imageUrl": "https://github.com/EmmanuelGuther/test/raw/main/github.png",
       "headerImageUrl": "https://github.com/EmmanuelGuther/test/raw/main/h_github.png",
-      "apkUrl": "https://github.com/EmmanuelGuther/test/raw/main/com.github.android_1.63.0.apk",
+      "apkUrl": "https://github.com/EmmanuelGuther/test/raw/main/github.apk",
         "description": "x"
     }
   ]
